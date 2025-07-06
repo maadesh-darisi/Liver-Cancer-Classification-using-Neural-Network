@@ -4,6 +4,18 @@ This project implements a feedforward neural network for binary classification u
 
 ---
 
+
+## 📊 Dataset Overview
+
+- **Source:** Indian Liver Patient Dataset (UCI Repository)  
+- **Samples:** 583 patient records  
+- **Attributes:** 10 features + target label  
+- **Target:**  
+  - `1` = liver disease  
+  - `2` = no liver disease  
+
+---
+
 ## 📐 Model Architecture
 
 - **Input Layer:** 10 neurons, ReLU activation  
