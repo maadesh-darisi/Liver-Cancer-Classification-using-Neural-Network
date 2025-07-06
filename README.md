@@ -78,4 +78,12 @@ This project implements a feedforward neural network for binary classification u
 - Deploy as a web application or API for real-time predictions  
 
 ---
+## 🛠️ Tech Stack
+
+- **Programming Language:** Python  
+- **Deep Learning Framework:** TensorFlow / Keras  
+- **Data Manipulation:** NumPy, Pandas  
+- **Data Preprocessing & Evaluation:** Scikit-learn  
+- **Visualization:** Matplotlib, Seaborn (for confusion matrix and metrics plots)  
+- **Development Environment:** Jupyter Notebook / VS Code / Any Python IDE  
 
