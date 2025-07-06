@@ -3,8 +3,6 @@
 This project implements a feedforward neural network for binary classification using TensorFlow/Keras. It's designed to be simple, educational, and easily extendable.
 
 ---
-
-
 ## 📊 Dataset Overview
 
 - **Source:** Indian Liver Patient Dataset (UCI Repository)  
@@ -13,7 +11,6 @@ This project implements a feedforward neural network for binary classification u
 - **Target:**  
   - `1` = liver disease  
   - `2` = no liver disease  
-
 ---
 
 ## 📐 Model Architecture
@@ -32,7 +29,6 @@ This project implements a feedforward neural network for binary classification u
 - **Validation Split:** 20%  
 - **Batch Size:** Keras default (can be customized)
 
----
 ---
 
 ## 📈 Results
@@ -69,7 +65,6 @@ This project implements a feedforward neural network for binary classification u
 - Visualize results using confusion matrix  
 
 ---
-
 ## 💡 Future Enhancements
 
 - Explore CNN or RNN architectures for improved feature extraction  
@@ -79,7 +74,6 @@ This project implements a feedforward neural network for binary classification u
 
 ---
 ## 🛠️ Tech Stack
-
 - **Programming Language:** Python  
 - **Deep Learning Framework:** TensorFlow / Keras  
 - **Data Manipulation:** NumPy, Pandas  
