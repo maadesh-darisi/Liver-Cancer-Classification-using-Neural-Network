@@ -79,5 +79,5 @@ This project implements a feedforward neural network for binary classification u
 - **Data Manipulation:** NumPy, Pandas  
 - **Data Preprocessing & Evaluation:** Scikit-learn  
 - **Visualization:** Matplotlib, Seaborn (for confusion matrix and metrics plots)  
-- **Development Environment:** Jupyter Notebook / VS Code / Any Python IDE  
+- **Development Environment:** Jupyter Notebook
 
